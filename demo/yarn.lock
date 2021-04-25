@@ -1705,7 +1705,7 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
-"@types/jest@*":
+"@types/jest@*", "@types/jest@^26.0.22":
   "integrity" "sha512-eeWwWjlqxvBxc4oQdkueW5OF/gtfSceKk4OnOAGlUSwS/liBRtZppbJuz1YkgbrbfGOoeBHun9fOvXnjNwrSOw=="
   "resolved" "https://registry.npmjs.org/@types/jest/-/jest-26.0.22.tgz"
   "version" "26.0.22"
